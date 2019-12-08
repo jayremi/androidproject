@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Giftagram</string>
+    <string name="Mainheader">Upcoming Christmas Day</string>
+    <string name="secondheader">Top 10</string>
+    <string name="Fb">Facebook</string>
+    <string name="menu">Menu</string>
+    <string name="SearchHeader">Search</string>
+    <string name="likelibrary_header">Liked Item</string>
+    <string name="LibraryHeader">Library</string>
+    <string name="LikeItemHeader">Liked Items</string>
+    <string name="Searchsecondheader">Browse all</string>
+</resources>

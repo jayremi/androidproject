@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484284879568",
+    "firebase_url": "https://perfectgift-6548a.firebaseio.com",
+    "project_id": "perfectgift-6548a",
+    "storage_bucket": "perfectgift-6548a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484284879568:android:2d60ad0e57d4b5835f44d5",
+        "android_client_info": {
+          "package_name": "student.inti.gg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484284879568-7t5m823rpfnakl452qd8r2qtnvskj0af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.inti.gg",
+            "certificate_hash": "81fffd6992f2e1b4f9892e485bf351844c5c51a1"
+          }
+        },
+        {
+          "client_id": "484284879568-u7dkfvd41rt9ep14vigslt5bke5pjkhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmL2_qlc6hZyPX4TK-qF-E_Wzr0qwyNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484284879568-u7dkfvd41rt9ep14vigslt5bke5pjkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
